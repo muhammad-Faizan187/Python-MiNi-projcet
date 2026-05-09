@@ -44,3 +44,42 @@ Perfect for beginners who want to learn: • Python basics
 • CRUD operations
 • Terminal design
 💖 Made with Python by Muhammad Faizan
+
+
+
+
+
+
+
+📅 Python Calendar Mini Project
+This mini project is developed using Python and the built in calendar module.
+The main purpose of this project is to display calendars of specific months and years in a simple and user friendly way.
+━━━━━━━━━━━━━━━━━━ ✨ PROJECT FEATURES ━━━━━━━━━━━━━━━━━━
+✅ Display calendar of any month
+✅ Display full year calendar
+✅ User friendly interface
+✅ Simple and beginner friendly code
+✅ Uses Python built in calendar module
+✅ Fast and lightweight program
+━━━━━━━━━━━━━━━━━━ 🛠️ HOW IT WORKS ━━━━━━━━━━━━━━━━━━
+The user enters: • Year
+• Month
+The program then generates and displays the calendar for the given month and year.
+Example:
+Input:
+Year → 2026
+Month → 12
+Output:
+December 2026 calendar will be displayed on screen.
+━━━━━━━━━━━━━━━━━━ 📚 CONCEPTS USED ━━━━━━━━━━━━━━━━━━
+• Python calendar module
+• User input
+• Variables
+• Functions
+• Conditional statements
+• Formatting and printing
+━━━━━━━━━━━━━━━━━━ 🎯 PURPOSE OF PROJECT ━━━━━━━━━━━━━━━━━━
+This project helps beginners understand how Python modules work and how real world mini applications are created using simple programming concepts.
+━━━━━━━━━━━━━━━━━━ 💖 MADE BY ━━━━━━━━━━━━━━━━━━
+Muhammad Faizan
+Python Beginner Mini Project 🚀
